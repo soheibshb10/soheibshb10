@@ -5,8 +5,7 @@
 </div>
 <div id="badges">
   <a href="https://www.linkedin.com/in/soheib-benchabana-1601801a7/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white
-" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
 
