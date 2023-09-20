@@ -16,7 +16,7 @@
 </div>
 
 ### :woman_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a sprib boot Developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Algeria.
 
 Here are some ideas to get you started:
 I am a spring boot and Java developer 
