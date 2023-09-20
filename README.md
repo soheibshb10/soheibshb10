@@ -1,10 +1,15 @@
 ### Hi there 👋
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 <div id="badges">
   <a href="your-linkedin-URL">
     <img src="https://www.linkedin.com/in/soheib-benchabana-1601801a7/&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+
 <img src="https://komarev.com/ghpvc/?username=soheibshb10&style=flat-square&color=blue" alt=""/>
 
 <h1>
