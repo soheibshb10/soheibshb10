@@ -22,9 +22,9 @@
 </div>
 
 ### :woman_technologist: About Me :
-I am a spring boot Developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Algeria.
+I am a spring boot Developer and Java developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Algeria.
 
-I am a spring boot and Java developer 
+
 - 🔭 I’m currently working on spring boot dev
 - 🌱 I’m currently learning spring 
 - 👯 I’m looking to collaborate on api dev
