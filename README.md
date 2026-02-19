@@ -26,10 +26,7 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 
 - 🔭 I’m currently working on  web dev and cybersecurity tools
-- 🌱 I’m currently learning spring 
-- I’m looking to co
-- 🤔 I’m looking for help with web application dev and backend dev
-- 💬 Ask me about spring dev
+-  I’m Software Engineer 
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/soheib-benchabana-1601801a7/)
 
 ### :hammer_and_wrench: Languages and Tools :
