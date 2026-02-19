@@ -25,9 +25,9 @@
 I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Algeria.
 
 
-- 🔭 I’m currently working on spring boot dev
+- 🔭 I’m currently working on  web dev and cybersecurity tools
 - 🌱 I’m currently learning spring 
-- 👯 I’m looking to collaborate on api dev
+- I’m looking to co
 - 🤔 I’m looking for help with web application dev and backend dev
 - 💬 Ask me about spring dev
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/soheib-benchabana-1601801a7/)
