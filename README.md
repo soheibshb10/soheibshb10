@@ -44,8 +44,8 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 # 📊 My GitHub History
 <p align="left">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=soheibshb10&show_icons=true&theme=vision-friendly-dark" alt="GitHub Stats" />
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=soheibshb10&layout=compact&theme=vision-friendly-dark" alt="Most Used Languages" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=soheibshb10&show_icons=true&theme=vision-friendly-dark&count_private=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=soheibshb10&layout=compact&theme=vision-friendly-dark&count_private=true" alt="Most Used Languages" />
 </p>
 
 ### 🐍 My Contribution Snake
