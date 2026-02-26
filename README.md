@@ -42,4 +42,8 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 
 ![github contribution grid snake animation](https://github.com/soheibshb10/soheibshb10/blob/output/github-contribution-grid-snake.svg)
+
+![Your Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soheibshb10&layout=compact&theme=vision-friendly-dark)
+![Soheib's GitHub stats](https://github-readme-stats.vercel.app/api?username=soheibshb10&show_icons=true&theme=vision-friendly-dark)
+
 </div>
