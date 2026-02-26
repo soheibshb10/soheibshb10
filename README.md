@@ -44,11 +44,11 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 # 📊 My GitHub History
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=soheibshb10&show_icons=true&theme=vision-friendly-dark&cache_id=1" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soheibshb10&layout=compact&theme=vision-friendly-dark&cache_id=1" alt="Most Used Languages" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=soheibshb10&show_icons=true&theme=vision-friendly-dark" alt="GitHub Stats" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=soheibshb10&layout=compact&theme=vision-friendly-dark" alt="Most Used Languages" />
 </p>
 
 ### 🐍 My Contribution Snake
-![Snake animation](https://github.com/soheibshb10/soheibshb10/blob/output/github-contribution-grid-snake-dark.svg)
+![Stats](https://github-readme-stats.vercel.app/api?username=soheibshb10&show_icons=true&theme=vision-friendly-dark&v=1)
 
 </div>
