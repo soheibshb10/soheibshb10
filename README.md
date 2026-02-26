@@ -24,9 +24,8 @@
 ### :woman_technologist: About Me :
 I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Algeria.
 
-
-- 🔭 I’m currently working on  web dev and cybersecurity tools
 -  I’m Software Engineer 
+- 🔭 I’m currently working on  Sofftware dev and Cybersecurity tools .
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/soheib-benchabana-1601801a7/)
 - 
 
@@ -42,5 +41,6 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 
+![Snake animation](https://github.com/soheibshb10/soheibshb10/blob/output/github-contribution-grid-snake.svg)
 
 </div>
