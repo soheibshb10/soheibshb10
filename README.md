@@ -49,6 +49,6 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 </p>
 
 ### 🐍 My Contribution Snake
-![Stats](https://github-readme-stats.vercel.app/api?username=soheibshb10&show_icons=true&theme=vision-friendly-dark&v=1)
+![Snake animation](https://github.com/soheibshb10/soheibshb10/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
