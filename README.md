@@ -25,7 +25,7 @@
 I'm a Cybersecurity Researcher and Backend Engineer from Algeria, currently focusing on secure system architecture and network defense.  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - 🔭 **Currently working on:** Designing open-source cybersecurity frameworks, developing tools for purple team operations, and advancing my research.
 - 🧠 **Areas of focus:** Low-level systems (C, x86 assembly, kernel mechanics), Python scripting, and using advanced AI technoques for  detecting dufferent anomolies types.
-- 🛠 **Approach:** I prefer local-first, hardware-rooted computing environments and prioritize a deep foundational understanding of algorithmic logic over automated generation.
+- 🛠 **Approach:** I prefer prioritize a deep foundational understanding of algorithmic logic over automated generation.
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/soheib-benchabana-1601801a7/)
   
 
