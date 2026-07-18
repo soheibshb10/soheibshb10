@@ -21,8 +21,8 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-### :woman_technologist: About Me :
-I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Algeria.
+### :man_technologist: About Me :
+I'm a Cybersecurity Researcher and Backend Engineer from Algeria, currently focusing on secure system architecture and network defense.  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Algeria.
 
 -  I’m Software Engineer 
 - 🔭 I’m currently working on  Sofftware dev and Cybersecurity tools .
