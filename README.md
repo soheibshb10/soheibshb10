@@ -23,9 +23,9 @@
 
 ### :man_technologist: About Me :
 I'm a Cybersecurity Researcher and Backend Engineer from Algeria, currently focusing on secure system architecture and network defense.  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Algeria.
-
--  I’m Software Engineer 
-- 🔭 I’m currently working on  Sofftware dev and Cybersecurity tools .
+- 🔭 **Currently working on:** Designing independent, open-source cybersecurity frameworks and advancing my doctoral research.
+- 🧠 **Areas of focus:** Low-level systems (C, x86 assembly, kernel mechanics), backend engineering, and Explainable AI (XAI) for network anomaly detection.
+- 🛠 **Approach:** I prefer local-first, hardware-rooted computing environments and prioritize a deep foundational understanding of algorithmic logic over automated generation.
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/soheib-benchabana-1601801a7/)
   
 
