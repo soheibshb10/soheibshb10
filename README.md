@@ -43,11 +43,6 @@ I'm a Cybersecurity Researcher and Software Engineer from Algeria, currently foc
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 
 
-# 📊 My GitHub History
-<p align="left">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=soheibshb10&show_icons=true&theme=vision-friendly-dark&langs_count=10&v=3count_private=true" alt="GitHub Stats" />
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=soheibshb10&layout=compact&theme=vision-friendly-dark&langs_count=10&v=3count_private=true" alt="Most Used Languages" />
-</p>
 
 ### 🐍 My Contribution Snake
 ![Snake animation](https://github.com/soheibshb10/soheibshb10/blob/output/github-contribution-grid-snake-dark.svg)
